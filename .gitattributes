@@ -1,2 +1,16 @@
 # Auto detect text files and perform LF normalization
+
 * text=auto
+
+<? php
+
+$animal1 = [
+    "nombre" => "Pingüino Emperador",
+    "Promedio de vida" => "20 años",
+    "Altura" => "120 cm aprox.",
+    "Peso" => "20-45kg"
+    "Color" => "Cabeza y dorso negro, vientre blanco, y amarillo alrededor del cuello"
+    
+
+
+]
