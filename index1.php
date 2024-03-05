@@ -20,7 +20,7 @@ $kdrama1 = [
         "Pais" => "Corea del sur",
         "PlataformaTransmision" => "Netflix",
         "Audiencia" => "Adolescentes",
-        "Calificacion" => 10.0,
+        "Calificacion" => 10.0
         
 ];
     
@@ -46,7 +46,7 @@ $kdrama2 = [
 "Pais" => "Corea del Sur",
 "PlataformaTransmision" => "Netflix",
 "Audiencia" => "Adolescentes",
-"Calificacion" => 10.0,
+"Calificacion" => 10.0
 ];
 
 $kdrama3 = [
@@ -70,7 +70,7 @@ $kdrama3 = [
 "Pais" => "Corea del Sur",
 "PlataformaTransmision" => "Netflix",
 "Audiencia" => "Adolescentes",
-"Calificacion" => 10.0,
+"Calificacion" => 10.0
 ];
 
 $kdrama4 = [
@@ -94,14 +94,14 @@ $kdrama4 = [
 "Pais" => "Corea del sur",
 "PlataformaTransmision" => "Netflix",
 "Audiencia" => "Adolescentes",
-"Calificacion" => 10.0,
+"Calificacion" => 10.0
 ];
 
 $kdramas = [
     $kdrama1,
     $kdrama2,
     $kdrama3,
-    $kdrama4,
+    $kdrama4
 ];
 
 echo json_encode($kdramas); 
