@@ -47,7 +47,7 @@
     "Idioma" => "Inglés",
     "No. Billboard 200" => 31,
     "Unidades Equivalentes" => 500000,
-    "Reproducciones dia 1" => "90.8 Millones",
+    "Reproducciones dia 1" => 9080000000,
  ];
  $album3 = [
 
