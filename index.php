@@ -96,7 +96,7 @@
     "Idioma" => "Inglés",
     "No. Billboard 200" => 6,
     "Unidades Vendidas" => 1653000,
-    "Reproducciones dia 1" => "176 Millones",
+    "Reproducciones dia 1" => 176000000000,
  ];
 
  $albums = [
